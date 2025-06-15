@@ -1,0 +1,15 @@
+{
+  "timestamp": 1749996860597,
+  "operation": {
+    "id": "settings:config:package"
+  },
+  "projectId": "build-a-portfolio-website-for-my-design-work",
+  "files": [
+    {
+      "path": "../../apps/build-a-portfolio-website-for-my-design-work/vitereact/package.json",
+      "type": "text",
+      "size": 2935,
+      "dependencies": true
+    }
+  ]
+}

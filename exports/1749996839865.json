@@ -1,0 +1,19 @@
+{
+  "timestamp": 1749996839865,
+  "operation": {
+    "id": "webapp:react:root",
+    "refs": {
+      "id": "app",
+      "version": "1749996820850"
+    }
+  },
+  "projectId": "build-a-portfolio-website-for-my-design-work",
+  "files": [
+    {
+      "path": "../../apps/build-a-portfolio-website-for-my-design-work/vitereact/src/App.tsx",
+      "type": "text",
+      "size": 1581,
+      "dependencies": false
+    }
+  ]
+}

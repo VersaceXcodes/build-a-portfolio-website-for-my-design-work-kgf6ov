@@ -1,0 +1,15 @@
+{
+  "timestamp": 1749996638130,
+  "operation": {
+    "id": "db:postgres"
+  },
+  "projectId": "build-a-portfolio-website-for-my-design-work",
+  "files": [
+    {
+      "path": "../../apps/build-a-portfolio-website-for-my-design-work/backend/db.sql",
+      "type": "text",
+      "size": 3746,
+      "dependencies": false
+    }
+  ]
+}

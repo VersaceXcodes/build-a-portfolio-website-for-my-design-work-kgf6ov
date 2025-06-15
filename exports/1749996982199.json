@@ -1,0 +1,19 @@
+{
+  "timestamp": 1749996982199,
+  "operation": {
+    "id": "webapp:react:views",
+    "refs": {
+      "id": "UV_ProjectDetails",
+      "version": "1749996981992"
+    }
+  },
+  "projectId": "build-a-portfolio-website-for-my-design-work",
+  "files": [
+    {
+      "path": "../../apps/build-a-portfolio-website-for-my-design-work/vitereact/src/components/views/UV_ProjectDetails.tsx",
+      "type": "text",
+      "size": 3017,
+      "dependencies": false
+    }
+  ]
+}

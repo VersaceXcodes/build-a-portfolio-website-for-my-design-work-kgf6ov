@@ -1,0 +1,21 @@
+{
+  "timestamp": 1749996741153,
+  "operation": {
+    "id": "settings:config:package"
+  },
+  "projectId": "build-a-portfolio-website-for-my-design-work",
+  "files": [
+    {
+      "path": "../../apps/build-a-portfolio-website-for-my-design-work/backend/package.json",
+      "type": "text",
+      "size": 782,
+      "dependencies": true
+    },
+    {
+      "path": "../../apps/build-a-portfolio-website-for-my-design-work/backend/.env",
+      "type": "text",
+      "size": 85,
+      "dependencies": false
+    }
+  ]
+}
